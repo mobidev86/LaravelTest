@@ -49,7 +49,12 @@ Ensure your Laravel development server is running by executing the following com
 ```bash
 php artisan serve
 ```
-Open your web browser and enter the appropriate URL based on your environment setup.
+Open your web browser and enter the appropriate URL based on your environment setup and follow below steps :
+
+```bash
+Step1 : Reigster yourself on the app
+Step2 : Login
+```
 
 ## Tests
 The project includes comprehensive test coverage to ensure functionality and reliability. To run the tests:
